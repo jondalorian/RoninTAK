@@ -1,6 +1,0 @@
----
-missionCronExpression: "-"
-removeFromArchiveAfterDays: 1065.0
-timeToArchiveAfterNoActivityDays: 365
-archiveMissionByNoContentActivity: false
-archiveMissionByNoSubscriptionActivity: false
