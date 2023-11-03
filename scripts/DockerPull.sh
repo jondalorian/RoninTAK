@@ -5,7 +5,7 @@ ARTIFACTORY_URL="https://ronintak.jfrog.io"
 REPOSITORY="tak-registry-docker"
 
 # Define the images and tags you want to pull
-IMAGE_1_NAME="tak-server-db"
+IMAGE_1_NAME="takserver-db"
 IMAGE_1_TAG="4.8-RELEASE-56"
 
 IMAGE_2_NAME="takserver"
